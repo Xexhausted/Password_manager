@@ -26,7 +26,7 @@ A simple password manager written in C, using OpenSSL for AES encryption. The pr
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/password-manager.git
+git clone https://github.com/yourusername/password-manager.git](https://github.com/Xexhausted/Password_manager.git
 cd password-manager
 ```
 
